@@ -1,5 +1,0 @@
-{
-  "globalHeaders": {
-    "Cache-Control": "public, must-revalidate, max-age=15, proxy-revalidate, s-maxage=30"
-  }
-}
