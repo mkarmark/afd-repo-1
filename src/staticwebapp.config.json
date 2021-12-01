@@ -3,6 +3,10 @@
     {
       "route": "/puppy.jpg",
       "allowedRoles": ["authenticated"]
+    },
+    {
+      "route": "/puppy2.jpg",
+      "rewrite": "/somewhere"
     }
   ]
 }
